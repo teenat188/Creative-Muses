@@ -25,19 +25,18 @@
 		
 		<div  id="nav">
 			<ul>
-				<li class="first" id="current"><a href="index.html"></a></li>
+			
 				
 					
 			</ul>		
 		</div>	
 		
 	<!--header ends-->					
-	</div>
 	
 	<!-- featured starts -->	
-		<div class="text-block">
+		<div>
 			
-				<h2><a href="index.html">Muses</a></h2>
+			
 			
 				<p class="post-info">Posted by <a href="index.html">teena</a> | Filed under <a href="index.html">Personal Space</a>,</p>
 				
