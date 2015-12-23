@@ -1,5 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
@@ -118,7 +116,6 @@
 		<div class="bottom-left">
 			<p>
 			&copy; 2009 <strong>All Copyrights Reserved to Teena Thomas</strong>&nbsp; &nbsp; &nbsp;
-			Design Tools by: <a href="http://www.styleshout.com/">styleshout</a> 			
 			</p>
 		</div>
 	
