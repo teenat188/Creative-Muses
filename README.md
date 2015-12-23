@@ -77,7 +77,7 @@
 	<div id="footer-bottom">
 		<div class="bottom-left">
 			<p>
-			&copy; 2009 <strong>All Copyrights Reserved to Teena Thomas</strong>&nbsp; &nbsp; &nbsp;
+			&copy; 2015 <strong>All Copyrights Reserved to Teena Thomas</strong>&nbsp; &nbsp; &nbsp;
 			</p>
 		</div>
 	
