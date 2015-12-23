@@ -31,21 +31,11 @@
 			</ul>		
 		</div>	
 		
-		<div id="header-image"></div>
-						
 	<!--header ends-->					
 	</div>
 	
 	<!-- featured starts -->	
-	<div id="featured" class="clear">				
-				
-			<a name="TemplateInfo"></a>
-			
-			<div class="image-block">
-              <img src="images\Picture 176.jpg" alt="featured"/>
-         </div>			
-			
-			<div class="text-block">
+		<div class="text-block">
 			
 				<h2><a href="index.html">Muses</a></h2>
 			
