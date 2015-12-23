@@ -1,7 +1,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-<title>Creative Muses</title>
 
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
 <meta name="author" content="Erwin Aligam - styleshout.com" />
@@ -50,7 +49,7 @@
 			
 				<h2><a href="index.html">Muses</a></h2>
 			
-				<p class="post-info">Posted by <a href="index.html">teena</a> | Filed under <a href="index.html">Personal Site</a>, <a href="index.html">internet</a></p>
+				<p class="post-info">Posted by <a href="index.html">teena</a> | Filed under <a href="index.html">Personal Space</a>,</p>
 				
 				<p><strong>Hi there..</strong>Welcome to 
 				 Creative Muses. Looking forward to sharing with you some of my thoughts and creations.. 
@@ -79,33 +78,7 @@
 	<!-- content end -->	
 	</div></div>
 		
-	<!-- footer starts here -->	
-	<p><p><div id="footer-outer" class="clear"><div id="footer-wrap">
 	
-		<div class="col-a">
-		
-			<h3>Image Gallery </h3>					
-				
-			<p class="thumbs">
-				<a href="images/log exposr ctrl.jpg"><img src="images/log exposr ctrl.jpg" width="40" height="40" alt="thumbnail"/></a>
-				<a href="images/2.jpg"><img src="images/2.jpg" width="40" height="40" alt="thumbnail" /></a>
-				<a href="images/Cpu RE.jpg"><img src="images/Cpu RE.jpg" width="40" height="40" alt="thumbnail" /></a>
-				<a href="images/LCD.jpg"><img src="images/LCD.jpg" width="40" height="40" alt="thumbnail" /></a>
-				<a href="images/visitor's area.jpg"><img src="images/visitor's area.jpg" width="40" height="40" alt="thumbnail" /></a>
-				<a href="images/a.jpg"><img src="images/a.jpg" width="40" height="40" alt="thumbnail" /></a>	
-				<a href="images/c.jpg"><img src="images/c.jpg" width="40" height="40" alt="thumbnail" /></a>
-				<a href="images/d.jpg"><img src="images/d.jpg" width="40" height="40" alt="thumbnail" /></a>				
-			</p>	
-			
-					
-				
-		</div>
-		
-			
-		
-		
-	
-	<!-- footer ends -->		
 	</div></div>
 <div class="sidemenu">
 					
